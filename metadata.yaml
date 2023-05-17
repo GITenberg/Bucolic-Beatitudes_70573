@@ -1,0 +1,41 @@
+_repo: Bucolic-Beatitudes_70573
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merwin, Decie
+    birthdate: 1894
+    deathdate: 1961
+    gutenberg_agent_id: '55802'
+    url: http://www.gutenberg.org/2009/agents/55802
+creator:
+  author:
+    agent_name: Jenkins, MacGregor
+    alias: Rusticus
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '55791'
+    url: http://www.gutenberg.org/2009/agents/55791
+description: ''
+gutenberg_issued: '2023-04-17'
+identifiers:
+  gutenberg: '70573'
+language: en
+pgterms:marc905: 20220602142504rusticus
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Atlantic Monthly Press, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic animals -- Anecdotes'
+- !lcsh 'Farm life -- Anecdotes'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Blessed be the dog -- Blessed be the pig -- Blessed be the hen --
+  Blessed be the cow -- Blessed be the horse -- Blessed be the garden.
+title: Bucolic Beatitudes
+url: http://www.gutenberg.org/ebooks/70573
