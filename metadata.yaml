@@ -7,6 +7,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '55802'
     url: http://www.gutenberg.org/2009/agents/55802
+covers:
+- cover_type: archival
+  image_path: 70573-h/images/cover.jpg
 creator:
   author:
     agent_name: Jenkins, MacGregor
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '55791'
     url: http://www.gutenberg.org/2009/agents/55791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70573#Bucolic-Beatitudes
 gutenberg_issued: '2023-04-17'
 identifiers:
   gutenberg: '70573'
